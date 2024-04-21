@@ -1,12 +1,10 @@
-# Data Scientist
-
-## Education
+# Education
 - M.S., Applied Data Science | University of Chicago (_December 2024_)
 - B.S., Sports Management | Ohio State University (_May 2023_)
 - B.S., Finance | Ohio State University (_May 2023_)
 
 
-## Work Experience
+# Work Experience
 **Video & Data Analyst @ University of Chicago Men’s Soccer Team (_March 2024 - Present_)**
 
 **Operations Assistant @ Columbus Crew (_May 2023 - July 2023_)**
@@ -22,5 +20,5 @@
 **Assistant Coach @ SISU Biligual School U12 Team (_January 2019 - May 2019_)**
 
 
-## Project
-### Fullback Overlap Evaluation
+# Project
+## Fullback Overlap Evaluation
